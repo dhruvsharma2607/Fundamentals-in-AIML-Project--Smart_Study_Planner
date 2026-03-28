@@ -1,4 +1,3 @@
-Here is a clean, simple, human-written README without emojis or styling:
 Smart Study Planner
 
 Overview:
