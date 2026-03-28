@@ -1,4 +1,9 @@
 Smart Study Planner
+Smart-Study-Planner
+├── main.py
+├── planner.py
+├── dataset.csv
+└── README.md
 
 Overview:
 The Smart Study Planner is a basic AI-based project designed to help students manage their study time in a better way. Many students find it difficult to plan their studies when they have multiple subjects and limited time. This project focuses on creating a simple solution to that problem.
